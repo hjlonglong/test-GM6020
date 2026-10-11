@@ -1,0 +1,5 @@
+D:/rm/codes/test_GM6020/Tasks/Src/Pid.cpp:7:1:Pid::Pid(float, float, float, float, float)	32	static
+D:/rm/codes/test_GM6020/Tasks/Src/Pid.cpp:12:6:void Pid::setParams(float, float, float)	24	static
+D:/rm/codes/test_GM6020/Tasks/Src/Pid.cpp:16:6:void Pid::setOutputLimit(float, float)	24	static
+D:/rm/codes/test_GM6020/Tasks/Src/Pid.cpp:20:6:void Pid::reset()	16	static
+D:/rm/codes/test_GM6020/Tasks/Src/Pid.cpp:25:7:float Pid::calc(float, float)	40	static

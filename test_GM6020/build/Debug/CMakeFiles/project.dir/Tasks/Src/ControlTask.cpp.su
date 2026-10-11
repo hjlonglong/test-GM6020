@@ -1,0 +1,7 @@
+D:/rm/codes/test_GM6020/Tasks/Src/ControlTask.cpp:338:17:void ControlTaskInit()	72	static
+D:/rm/codes/test_GM6020/Tasks/Src/ControlTask.cpp:442:17:void CanFeedbackCallback(uint32_t, const uint8_t*)	16	static
+D:/rm/codes/test_GM6020/Tasks/Src/ControlTask.cpp:458:17:void MainTask()	88	static
+D:/rm/codes/test_GM6020/Tasks/Src/ControlTask.cpp:618:17:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	16	static
+D:/rm/codes/test_GM6020/Tasks/Src/ControlTask.cpp:626:17:void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef*)	64	static
+D:/rm/codes/test_GM6020/Tasks/Src/ControlTask.cpp:645:1:void __static_initialization_and_destruction_0()	8	static
+D:/rm/codes/test_GM6020/Tasks/Src/ControlTask.cpp:645:1:cpp)	8	static

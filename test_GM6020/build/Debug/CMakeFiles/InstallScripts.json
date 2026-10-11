@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/rm/codes/test_GM6020/build/Debug/cmake_install.cmake",
+		"D:/rm/codes/test_GM6020/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
